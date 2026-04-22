@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/skillmeter-hero.svg" alt="Skillmeter animated README hero" width="100%" />
+  <img src="./assets/readme/skillmeter-hero-github.svg" alt="Skillmeter animated README hero" width="100%" />
 </p>
 
 <h1 align="center">Skillmeter</h1>
