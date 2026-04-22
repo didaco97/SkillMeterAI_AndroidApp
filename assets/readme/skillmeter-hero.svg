@@ -1,91 +1,93 @@
 <svg width="1200" height="680" viewBox="0 0 1200 680" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Skillmeter animated hero</title>
-  <desc id="desc">Animated neo-brutalist banner for Skillmeter, showing a YouTube learning route, notes, quiz, and daily progress.</desc>
+  <desc id="desc">Animated neo-brutalist banner for Skillmeter with build flow, learn workspace, quiz score, and progress bars.</desc>
 
   <rect width="1200" height="680" fill="#F4F4F0"/>
 
   <rect x="82" y="82" width="1036" height="516" fill="#111111"/>
   <rect x="64" y="64" width="1036" height="516" fill="#F4F4F0" stroke="#111111" stroke-width="6"/>
 
-  <rect x="114" y="122" width="454" height="182" fill="#111111"/>
-  <rect x="96" y="104" width="454" height="182" fill="#FFE45E" stroke="#111111" stroke-width="6"/>
+  <rect x="114" y="122" width="478" height="228" fill="#111111"/>
+  <rect x="96" y="104" width="478" height="228" fill="#FFE45E" stroke="#111111" stroke-width="6"/>
 
-  <rect x="126" y="132" width="128" height="38" rx="19" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
-  <text x="190" y="156" text-anchor="middle" font-family="'Space Mono', monospace" font-size="18" fill="#111111">ANDROID FIRST</text>
+  <rect x="126" y="132" width="132" height="38" rx="19" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
+  <text x="192" y="156" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="17" fill="#111111">ANDROID FIRST</text>
 
-  <rect x="270" y="132" width="126" height="38" rx="19" fill="#41DFFF" stroke="#111111" stroke-width="4">
+  <rect x="274" y="132" width="126" height="38" rx="19" fill="#41DFFF" stroke="#111111" stroke-width="4">
     <animate attributeName="fill" values="#41DFFF;#FF6BB5;#41DFFF" dur="6s" repeatCount="indefinite"/>
   </rect>
-  <text x="333" y="156" text-anchor="middle" font-family="'Space Mono', monospace" font-size="18" fill="#111111">AI COURSE</text>
+  <text x="337" y="156" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="17" fill="#111111">AI COURSE</text>
 
-  <text x="126" y="214" font-family="'Space Mono', monospace" font-size="62" font-weight="700" fill="#111111">SKILLMETER</text>
-  <text x="126" y="252" font-family="'Space Mono', monospace" font-size="26" fill="#111111">Turn any YouTube video into a day-by-day learning route.</text>
+  <text x="126" y="214" font-family="'Courier New', Courier, monospace" font-size="66" font-weight="700" fill="#111111">SKILLMETER</text>
+  <text x="126" y="254" font-family="'Courier New', Courier, monospace" font-size="24" fill="#111111">TURN YOUTUBE INTO A</text>
+  <text x="126" y="286" font-family="'Courier New', Courier, monospace" font-size="24" fill="#111111">DAILY LEARNING ROUTE</text>
 
-  <rect x="126" y="272" width="388" height="20" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
-  <rect x="126" y="272" width="128" height="20" fill="#55E079">
-    <animate attributeName="width" values="104;274;196;332;104" dur="5s" repeatCount="indefinite"/>
+  <rect x="126" y="302" width="382" height="20" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
+  <rect x="126" y="302" width="126" height="20" fill="#55E079">
+    <animate attributeName="width" values="94;176;282;214;94" dur="5s" repeatCount="indefinite"/>
   </rect>
-  <circle cx="236" cy="282" r="7" fill="#111111">
-    <animate attributeName="cx" values="236;406;328;464;236" dur="5s" repeatCount="indefinite"/>
+  <circle cx="220" cy="312" r="7" fill="#111111">
+    <animate attributeName="cx" values="220;302;408;340;220" dur="5s" repeatCount="indefinite"/>
   </circle>
 
-  <rect x="660" y="122" width="352" height="220" fill="#111111"/>
-  <rect x="642" y="104" width="352" height="220" fill="#FFFFFF" stroke="#111111" stroke-width="6"/>
+  <rect x="666" y="122" width="350" height="248" fill="#111111"/>
+  <rect x="648" y="104" width="350" height="248" fill="#FFFFFF" stroke="#111111" stroke-width="6"/>
 
-  <text x="674" y="148" font-family="'Space Mono', monospace" font-size="18" fill="#646464">BUILD FLOW</text>
+  <text x="680" y="148" font-family="'Courier New', Courier, monospace" font-size="18" fill="#646464">BUILD FLOW</text>
 
-  <rect x="674" y="170" width="288" height="62" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
-  <rect x="674" y="250" width="288" height="62" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
-  <rect x="674" y="330" width="288" height="62" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
+  <rect x="680" y="172" width="286" height="50" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
+  <rect x="680" y="238" width="286" height="50" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
+  <rect x="680" y="304" width="286" height="50" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
 
-  <rect x="674" y="170" width="18" height="62" fill="#41DFFF">
-    <animate attributeName="y" values="170;250;330;170" dur="6s" repeatCount="indefinite"/>
+  <rect x="680" y="172" width="18" height="50" fill="#41DFFF">
+    <animate attributeName="y" values="172;238;304;172" dur="5.6s" repeatCount="indefinite"/>
   </rect>
 
-  <text x="716" y="206" font-family="'Space Mono', monospace" font-size="21" fill="#111111">PASTE VIDEO OR PLAYLIST</text>
-  <text x="716" y="286" font-family="'Space Mono', monospace" font-size="21" fill="#111111">GENERATE NOTES + QUIZ</text>
-  <text x="716" y="366" font-family="'Space Mono', monospace" font-size="21" fill="#111111">RESUME THE CURRENT DAY</text>
+  <text x="726" y="203" font-family="'Courier New', Courier, monospace" font-size="19" fill="#111111">PASTE VIDEO OR PLAYLIST</text>
+  <text x="726" y="269" font-family="'Courier New', Courier, monospace" font-size="19" fill="#111111">BUILD NOTES + QUIZ</text>
+  <text x="726" y="335" font-family="'Courier New', Courier, monospace" font-size="19" fill="#111111">RESUME CURRENT SESSION</text>
 
-  <rect x="114" y="394" width="898" height="188" fill="#111111"/>
-  <rect x="96" y="376" width="898" height="188" fill="#FFFFFF" stroke="#111111" stroke-width="6"/>
+  <rect x="1046" y="132" width="42" height="42" fill="#111111"/>
+  <rect x="1034" y="120" width="42" height="42" fill="#FF6BB5" stroke="#111111" stroke-width="4"/>
+  <text x="1055" y="146" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="16" fill="#111111">AI</text>
 
-  <text x="126" y="418" font-family="'Space Mono', monospace" font-size="18" fill="#646464">LEARN WORKSPACE</text>
+  <rect x="1046" y="188" width="42" height="42" fill="#111111"/>
+  <rect x="1034" y="176" width="42" height="42" fill="#55E079" stroke="#111111" stroke-width="4"/>
+  <text x="1055" y="202" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="16" fill="#111111">GO</text>
 
-  <rect x="126" y="438" width="256" height="96" fill="#F4F4F0" stroke="#111111" stroke-width="4"/>
-  <rect x="404" y="438" width="256" height="96" fill="#F4F4F0" stroke="#111111" stroke-width="4"/>
-  <rect x="682" y="438" width="282" height="96" fill="#F4F4F0" stroke="#111111" stroke-width="4"/>
+  <rect x="114" y="414" width="898" height="168" fill="#111111"/>
+  <rect x="96" y="396" width="898" height="168" fill="#FFFFFF" stroke="#111111" stroke-width="6"/>
 
-  <rect x="146" y="454" width="88" height="30" rx="15" fill="#FFE45E" stroke="#111111" stroke-width="4">
-    <animate attributeName="fill" values="#FFE45E;#41DFFF;#FF6BB5;#FFE45E" dur="6s" repeatCount="indefinite"/>
+  <text x="126" y="438" font-family="'Courier New', Courier, monospace" font-size="18" fill="#646464">LEARN WORKSPACE</text>
+
+  <rect x="126" y="456" width="256" height="96" fill="#F4F4F0" stroke="#111111" stroke-width="4"/>
+  <rect x="404" y="456" width="256" height="96" fill="#F4F4F0" stroke="#111111" stroke-width="4"/>
+  <rect x="682" y="456" width="282" height="96" fill="#F4F4F0" stroke="#111111" stroke-width="4"/>
+
+  <rect x="146" y="472" width="90" height="30" rx="15" fill="#41DFFF" stroke="#111111" stroke-width="4">
+    <animate attributeName="fill" values="#41DFFF;#FFE45E;#FF6BB5;#41DFFF" dur="6s" repeatCount="indefinite"/>
   </rect>
-  <text x="190" y="474" text-anchor="middle" font-family="'Space Mono', monospace" font-size="16" fill="#111111">DAY 03</text>
-  <text x="146" y="512" font-family="'Space Mono', monospace" font-size="26" fill="#111111">Functions that do real work</text>
+  <text x="191" y="492" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="16" fill="#111111">DAY 03</text>
+  <text x="146" y="526" font-family="'Courier New', Courier, monospace" font-size="22" fill="#111111">FUNCTIONS + FILES</text>
 
-  <text x="424" y="468" font-family="'Space Mono', monospace" font-size="18" fill="#646464">NOTES</text>
-  <rect x="424" y="484" width="196" height="12" fill="#D7F4FF" stroke="#111111" stroke-width="3"/>
-  <rect x="424" y="506" width="164" height="12" fill="#FFE2F0" stroke="#111111" stroke-width="3">
-    <animate attributeName="width" values="96;164;132;176;96" dur="5s" repeatCount="indefinite"/>
+  <text x="424" y="486" font-family="'Courier New', Courier, monospace" font-size="18" fill="#646464">NOTES</text>
+  <rect x="424" y="502" width="190" height="10" fill="#D7F4FF" stroke="#111111" stroke-width="3"/>
+  <rect x="424" y="522" width="150" height="10" fill="#FFE2F0" stroke="#111111" stroke-width="3">
+    <animate attributeName="width" values="90;150;126;170;90" dur="5s" repeatCount="indefinite"/>
   </rect>
-  <rect x="424" y="528" width="142" height="12" fill="#E2FFE9" stroke="#111111" stroke-width="3"/>
+  <rect x="424" y="542" width="136" height="10" fill="#E2FFE9" stroke="#111111" stroke-width="3"/>
 
-  <text x="702" y="468" font-family="'Space Mono', monospace" font-size="18" fill="#646464">QUIZ SCORE</text>
-  <rect x="702" y="484" width="222" height="22" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
-  <rect x="702" y="484" width="132" height="22" fill="#55E079">
-    <animate attributeName="width" values="88;164;206;178;88" dur="4.8s" repeatCount="indefinite"/>
+  <text x="702" y="486" font-family="'Courier New', Courier, monospace" font-size="18" fill="#646464">QUIZ SCORE</text>
+  <rect x="702" y="502" width="222" height="22" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
+  <rect x="702" y="502" width="118" height="22" fill="#55E079">
+    <animate attributeName="width" values="88;144;194;168;88" dur="4.8s" repeatCount="indefinite"/>
   </rect>
-  <text x="924" y="501" text-anchor="end" font-family="'Space Mono', monospace" font-size="18" fill="#111111">4 / 5</text>
-  <text x="702" y="536" font-family="'Space Mono', monospace" font-size="24" fill="#111111">Complete quiz, then mark lesson done.</text>
+  <text x="924" y="519" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="18" fill="#111111">4 / 5</text>
+  <text x="702" y="542" font-family="'Courier New', Courier, monospace" font-size="18" fill="#111111">QUIZ UNLOCKS</text>
+  <text x="702" y="562" font-family="'Courier New', Courier, monospace" font-size="18" fill="#111111">COMPLETION</text>
 
   <rect x="96" y="582" width="898" height="18" fill="#111111"/>
-  <rect x="96" y="582" width="184" height="18" fill="#41DFFF">
-    <animate attributeName="x" values="96;302;514;736;96" dur="7s" repeatCount="indefinite"/>
+  <rect x="96" y="582" width="162" height="18" fill="#41DFFF">
+    <animate attributeName="x" values="96;284;486;716;96" dur="7s" repeatCount="indefinite"/>
   </rect>
-
-  <rect x="1040" y="128" width="42" height="42" fill="#111111"/>
-  <rect x="1028" y="116" width="42" height="42" fill="#FF6BB5" stroke="#111111" stroke-width="4"/>
-  <text x="1049" y="143" text-anchor="middle" font-family="'Space Mono', monospace" font-size="16" fill="#111111">AI</text>
-
-  <rect x="1040" y="182" width="42" height="42" fill="#111111"/>
-  <rect x="1028" y="170" width="42" height="42" fill="#55E079" stroke="#111111" stroke-width="4"/>
-  <text x="1049" y="197" text-anchor="middle" font-family="'Space Mono', monospace" font-size="16" fill="#111111">GO</text>
 </svg>
