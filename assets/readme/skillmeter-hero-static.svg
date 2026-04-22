@@ -1,6 +1,6 @@
 <svg width="1200" height="660" viewBox="0 0 1200 660" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Skillmeter README hero</title>
-  <desc id="desc">Neo-brutalist Skillmeter banner with a single animated red highlight around the main product card.</desc>
+  <desc id="desc">Neo-brutalist Skillmeter banner with static product cards, labels, and progress boxes.</desc>
 
   <rect width="1200" height="660" fill="#F4F4F0"/>
 
@@ -8,9 +8,7 @@
   <rect x="60" y="56" width="1042" height="500" fill="#F4F4F0" stroke="#111111" stroke-width="6"/>
 
   <rect x="106" y="102" width="506" height="250" fill="#111111"/>
-  <rect x="90" y="86" width="506" height="250" fill="none" stroke="#FF2424" stroke-width="8">
-    <animate attributeName="opacity" values="1;0.45;1" dur="2.2s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="90" y="86" width="506" height="250" fill="none" stroke="#FF2424" stroke-width="8"/>
 
   <rect x="112" y="116" width="462" height="214" fill="#111111"/>
   <rect x="96" y="100" width="462" height="214" fill="#FFE45E" stroke="#111111" stroke-width="6"/>
@@ -22,7 +20,7 @@
   <text x="294" y="151" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="16" fill="#111111">AI</text>
 
   <text x="126" y="218" font-family="'Courier New', Courier, monospace" font-size="60" font-weight="700" fill="#111111">SKILLMETER</text>
-  <text x="126" y="258" font-family="'Courier New', Courier, monospace" font-size="22" fill="#111111">VIDEO -> PLAN -> LEARN</text>
+  <text x="126" y="258" font-family="'Courier New', Courier, monospace" font-size="22" fill="#111111">VIDEO -&gt; PLAN -&gt; LEARN</text>
 
   <rect x="126" y="282" width="356" height="18" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
   <rect x="126" y="282" width="164" height="18" fill="#55E079"/>
