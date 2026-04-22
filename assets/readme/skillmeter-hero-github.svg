@@ -1,11 +1,16 @@
 <svg width="1200" height="660" viewBox="0 0 1200 660" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Skillmeter animated README hero</title>
-  <desc id="desc">A neo-brutalist animated banner for Skillmeter with build flow, notes, quiz score, and daily progress.</desc>
+  <title id="title">Skillmeter README hero</title>
+  <desc id="desc">Neo-brutalist Skillmeter banner with a single animated red highlight around the main product card.</desc>
 
   <rect width="1200" height="660" fill="#F4F4F0"/>
 
   <rect x="78" y="74" width="1042" height="500" fill="#111111"/>
   <rect x="60" y="56" width="1042" height="500" fill="#F4F4F0" stroke="#111111" stroke-width="6"/>
+
+  <rect x="106" y="102" width="506" height="250" fill="#111111"/>
+  <rect x="90" y="86" width="506" height="250" fill="none" stroke="#FF2424" stroke-width="8">
+    <animate attributeName="opacity" values="1;0.45;1" dur="2.2s" repeatCount="indefinite"/>
+  </rect>
 
   <rect x="112" y="116" width="462" height="214" fill="#111111"/>
   <rect x="96" y="100" width="462" height="214" fill="#FFE45E" stroke="#111111" stroke-width="6"/>
@@ -13,21 +18,15 @@
   <rect x="126" y="128" width="108" height="36" rx="18" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
   <text x="180" y="151" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="16" fill="#111111">ANDROID</text>
 
-  <rect x="248" y="128" width="92" height="36" rx="18" fill="#41DFFF" stroke="#111111" stroke-width="4">
-    <animate attributeName="fill" values="#41DFFF;#FF6BB5;#41DFFF" dur="5.8s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="248" y="128" width="92" height="36" rx="18" fill="#7DB7F6" stroke="#111111" stroke-width="4"/>
   <text x="294" y="151" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="16" fill="#111111">AI</text>
 
   <text x="126" y="218" font-family="'Courier New', Courier, monospace" font-size="60" font-weight="700" fill="#111111">SKILLMETER</text>
-  <text x="126" y="258" font-family="'Courier New', Courier, monospace" font-size="22" fill="#111111">VIDEO  →  PLAN  →  LEARN</text>
+  <text x="126" y="258" font-family="'Courier New', Courier, monospace" font-size="22" fill="#111111">VIDEO -> PLAN -> LEARN</text>
 
   <rect x="126" y="282" width="356" height="18" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
-  <rect x="126" y="282" width="112" height="18" fill="#55E079">
-    <animate attributeName="width" values="96;162;248;196;96" dur="4.8s" repeatCount="indefinite"/>
-  </rect>
-  <circle cx="212" cy="291" r="7" fill="#111111">
-    <animate attributeName="cx" values="212;278;364;314;212" dur="4.8s" repeatCount="indefinite"/>
-  </circle>
+  <rect x="126" y="282" width="164" height="18" fill="#55E079"/>
+  <circle cx="286" cy="291" r="7" fill="#111111"/>
 
   <rect x="664" y="116" width="354" height="228" fill="#111111"/>
   <rect x="648" y="100" width="354" height="228" fill="#FFFFFF" stroke="#111111" stroke-width="6"/>
@@ -38,9 +37,7 @@
   <rect x="678" y="230" width="290" height="48" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
   <rect x="678" y="294" width="290" height="48" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
 
-  <rect x="678" y="166" width="18" height="48" fill="#41DFFF">
-    <animate attributeName="y" values="166;230;294;166" dur="5.4s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="678" y="230" width="18" height="48" fill="#41DFFF"/>
 
   <text x="734" y="196" font-family="'Courier New', Courier, monospace" font-size="20" fill="#111111">PASTE LINK</text>
   <text x="734" y="260" font-family="'Courier New', Courier, monospace" font-size="20" fill="#111111">MAKE NOTES</text>
@@ -63,29 +60,21 @@
   <rect x="404" y="438" width="256" height="92" fill="#F4F4F0" stroke="#111111" stroke-width="4"/>
   <rect x="682" y="438" width="286" height="92" fill="#F4F4F0" stroke="#111111" stroke-width="4"/>
 
-  <rect x="146" y="456" width="90" height="30" rx="15" fill="#41DFFF" stroke="#111111" stroke-width="4">
-    <animate attributeName="fill" values="#41DFFF;#FFE45E;#FF6BB5;#41DFFF" dur="6s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="146" y="456" width="90" height="30" rx="15" fill="#41DFFF" stroke="#111111" stroke-width="4"/>
   <text x="191" y="476" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="16" fill="#111111">DAY 03</text>
   <text x="146" y="510" font-family="'Courier New', Courier, monospace" font-size="22" fill="#111111">FUNCTIONS</text>
 
   <text x="424" y="466" font-family="'Courier New', Courier, monospace" font-size="18" fill="#646464">NOTES</text>
   <rect x="424" y="484" width="188" height="10" fill="#D7F4FF" stroke="#111111" stroke-width="3"/>
-  <rect x="424" y="504" width="146" height="10" fill="#FFE2F0" stroke="#111111" stroke-width="3">
-    <animate attributeName="width" values="92;146;120;164;92" dur="5s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="424" y="504" width="146" height="10" fill="#FFE2F0" stroke="#111111" stroke-width="3"/>
   <rect x="424" y="524" width="130" height="10" fill="#E2FFE9" stroke="#111111" stroke-width="3"/>
 
   <text x="702" y="466" font-family="'Courier New', Courier, monospace" font-size="18" fill="#646464">QUIZ</text>
   <rect x="702" y="484" width="222" height="22" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
-  <rect x="702" y="484" width="116" height="22" fill="#55E079">
-    <animate attributeName="width" values="84;142;188;162;84" dur="4.8s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="702" y="484" width="116" height="22" fill="#55E079"/>
   <text x="924" y="501" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="18" fill="#111111">4 / 5</text>
   <text x="702" y="528" font-family="'Courier New', Courier, monospace" font-size="18" fill="#111111">READY</text>
 
   <rect x="96" y="560" width="908" height="16" fill="#111111"/>
-  <rect x="96" y="560" width="158" height="16" fill="#41DFFF">
-    <animate attributeName="x" values="96;284;486;728;96" dur="7s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="96" y="560" width="158" height="16" fill="#41DFFF"/>
 </svg>
