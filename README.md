@@ -1,13 +1,25 @@
-<p align="center">
-  <img src="./assets/readme/skillmeter-hero-static.svg" alt="Skillmeter README hero" width="100%" />
-</p>
-
 <h1 align="center">Skillmeter</h1>
 
 <p align="center">
   Android-first AI course builder for YouTube.<br />
   Turn long videos and playlists into paced learning routes with notes, quizzes, and progress tracking.
 </p>
+
+```text
++-----------+------+ 
+| ANDROID   | AI   |
++-----------+------+
+
+SKILLMETER
+VIDEO -> PLAN -> LEARN
+
++------------------+  +------------------+  +------------------+
+| BUILD FLOW       |  | LEARN WORKSPACE  |  | QUIZ             |
+| PASTE LINK       |  | DAY 03           |  | 4 / 5            |
+| MAKE NOTES       |  | FUNCTIONS        |  | READY            |
+| OPEN LEARN       |  | NOTES            |  | COMPLETE NEXT    |
++------------------+  +------------------+  +------------------+
+```
 
 <p align="center">
   <img alt="Android first" src="https://img.shields.io/badge/ANDROID-FIRST-FFE45E?style=for-the-badge&labelColor=111111&color=FFE45E&logo=android&logoColor=111111" />
